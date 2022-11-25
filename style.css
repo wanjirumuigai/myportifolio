@@ -261,7 +261,7 @@ margin-bottom: 20px;
   }
   
   .contact-form p {
-    color: #c6c9d8bf;
+    color: white;
     letter-spacing: 1px;
     line-height: 26px;
     font-size: 1.1rem;
@@ -315,7 +315,7 @@ margin-bottom: 20px;
   .footer {
     
     background-color: rgb(255, 165, 0);
-    height: 40px;
+    height: 50px;
     
   }
   .social {
@@ -359,13 +359,13 @@ margin-bottom: 20px;
     transition: .3s;
   }
 
-  p.end {
+  .end {
     
-    color: #101010;
+    color: white;
     margin-bottom: 0px;
     font-size: 14px;
     text-align: center;
-    
+        
     
      }
 
